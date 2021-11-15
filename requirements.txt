@@ -1,0 +1,4 @@
+numpy 
+flask
+--no-cache-dir tensorflow==2.3
+pandas
