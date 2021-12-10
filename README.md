@@ -9,7 +9,10 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 $ pip install -r requirements.txt
 ```
 ## Model Used
+### S2S with attention
 ![image](https://user-images.githubusercontent.com/53816838/145516177-11cf2a95-37f9-4769-a33f-5f2dd34c4acd.png)
+### Transformer
+![image](https://user-images.githubusercontent.com/53816838/145516255-450f96fd-acb2-464d-abc9-99894bd02d4f.png)
 
 ## Train model
 
