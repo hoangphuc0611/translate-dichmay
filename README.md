@@ -8,6 +8,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 $ pip install -r requirements.txt
 ```
+## Model Used
+![image](https://user-images.githubusercontent.com/53816838/145516177-11cf2a95-37f9-4769-a33f-5f2dd34c4acd.png)
 
 ## Train model
 
